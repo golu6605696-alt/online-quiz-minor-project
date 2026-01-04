@@ -1,0 +1,27 @@
+/* Custom buttons */
+.btn-primary {
+  background-color: #2563eb;
+  color: white;
+  padding: 10px 24px;
+  border-radius: 6px;
+}
+
+.btn-primary:hover {
+  background-color: #1e40af;
+}
+
+.btn-success {
+  background-color: #16a34a;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 6px;
+}
+
+.btn-success:hover {
+  background-color: #166534;
+}
+
+/* Selected option */
+.selected {
+  background-color: #bfdbfe;
+}
